@@ -1,4 +1,3 @@
-
 <!-- =======  HEADER WAVE  (renders as a gradient banner)  ====== -->
 <a href="https://github.com/lucastcor">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Lucas%20Teixeira%20Correia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Data%20Science%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header"/>
@@ -50,7 +49,7 @@ My approach: implement the fundamentals from scratch in numpy, validate them wit
 
 Sou o **Lucas** — **estudante de Ciência da Computação** construindo projetos de Data Science e Machine Learning de ponta a ponta.
 
-Minha abordagem: implementar os fundamentos do zero em numpy, validar com cross-validation séria e amarrar  modelo a um resultado mensurável. Cada repo é estruturado pra que **matemática**, **engenharia** e **decisão de negócio** apareçam no mesmo lugar.
+Minha abordagem: implementar os fundamentos do zero em numpy, validar com cross-validation séria e amarrar todo modelo a um resultado mensurável. Cada repo é estruturado pra que **matemática**, **engenharia** e **decisão de negócio** apareçam no mesmo lugar.
 
 🎓 Estudante de Ciência da Computação · aprendendo escrevendo.
 
@@ -98,13 +97,13 @@ Minha abordagem: implementar os fundamentos do zero em numpy, validar com cross-
 <div align="center">
 
 <a href="https://github.com/lucastcor/Data_Science_and_ML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastcor&repo=Data_Science_and_ML&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&icon_color=F76707" alt="Data_Science_and_ML"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastcor&repo=Data_Science_and_ML&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&icon_color=F76707&cache_seconds=86400" alt="Data_Science_and_ML"/>
 </a>
 <a href="https://github.com/lucastcor/weather-trend-forecasting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastcor&repo=weather-trend-forecasting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&icon_color=F76707" alt="weather-trend-forecasting"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastcor&repo=weather-trend-forecasting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&icon_color=F76707&cache_seconds=86400" alt="weather-trend-forecasting"/>
 </a>
 <a href="https://github.com/lucastcor/metaheuristic-algorithms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastcor&repo=metaheuristic-algorithms&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&icon_color=F76707" alt="metaheuristic-algorithms"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucastcor&repo=metaheuristic-algorithms&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&icon_color=F76707&cache_seconds=86400" alt="metaheuristic-algorithms"/>
 </a>
 
 </div>
@@ -158,29 +157,27 @@ Metaheurísticas bio-inspiradas para otimização contínua — GWO e WOA implem
 
 ## 📊 GitHub stats
 
+<!-- Always-reliable shields.io badges (live data via GitHub API). -->
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/lucastcor?style=for-the-badge&logo=github&logoColor=white&color=4C6EF5&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/lucastcor?style=for-the-badge&logo=github&logoColor=white&color=F76707&labelColor=0d1117)
+![Last commit](https://img.shields.io/github/last-commit/lucastcor/Data_Science_and_ML?style=for-the-badge&logo=git&logoColor=white&color=15AABF&labelColor=0d1117&label=Latest%20commit)
+
+</div>
+
+<!-- Visual cards (Vercel-hosted; occasionally rate-limited — `cache_seconds=86400` makes the cache resilient once loaded). -->
 <div align="center">
 
 <a href="https://github.com/lucastcor">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucastcor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&icon_color=F76707&text_color=c9d1d9" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastcor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&text_color=c9d1d9&langs_count=8" alt="top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucastcor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&icon_color=F76707&text_color=c9d1d9&cache_seconds=86400" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastcor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4C6EF5&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="top languages"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/lucastcor">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lucastcor&theme=tokyonight&hide_border=true&background=0d1117&stroke=4C6EF5&ring=F76707&fire=F76707&currStreakLabel=4C6EF5" alt="streak" width="600"/>
-</a>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<a href="https://github.com/lucastcor">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucastcor&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </a>
 
 </div>
