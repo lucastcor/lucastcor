@@ -12,7 +12,7 @@
 <!-- =======  TYPING ANIMATION  ================================ -->
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=4C6EF5&center=true&vCenter=true&multiline=false&width=720&height=46&lines=+Computer+Science+student+%E2%80%A2+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Building+end-to-end+ML+pipelines;Constru%C3%ADndo+pipelines+de+ML+ponta+a+ponta;From-scratch+algorithms+%E2%80%A2+Algoritmos+do+zero)](https://github.com/lucastcor)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=4C6EF5&center=true&vCenter=true&multiline=false&width=950&height=46&lines=+Computer+Science+student+%E2%80%A2+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Building+end-to-end+ML+pipelines;Constru%C3%ADndo+pipelines+de+ML+ponta+a+ponta;From-scratch+algorithms+%E2%80%A2+Algoritmos+do+zero)](https://github.com/lucastcor)
 
 </div>
 
