@@ -1,5 +1,4 @@
 
-
 <!-- =======  HEADER WAVE  (renders as a gradient banner)  ====== -->
 <a href="https://github.com/lucastcor">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Lucas%20Teixeira%20Correia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Data%20Science%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header"/>
@@ -8,7 +7,7 @@
 <!-- =======  TYPING ANIMATION  ================================ -->
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=4C6EF5&center=true&vCenter=true&multiline=false&width=950&height=46&lines=+Computer+Science+student+%E2%80%A2+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Building+end-to-end+ML+pipelines;Constru%C3%ADndo+pipelines+de+ML+ponta+a+ponta;From-scratch+algorithms+%E2%80%A2+Algoritmos+do+zero)](https://github.com/lucastcor)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=4C6EF5&center=true&vCenter=true&multiline=false&width=950&height=46&lines=Computer+Science+student+%E2%80%A2+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Building+end-to-end+ML+pipelines;Construindo+pipelines+de+ML+ponta+a+ponta;From-scratch+algorithms+%E2%80%A2+Algoritmos+do+zero)](https://github.com/lucastcor)
 
 </div>
 
@@ -51,7 +50,7 @@ My approach: implement the fundamentals from scratch in numpy, validate them wit
 
 Sou o **Lucas** — **estudante de Ciência da Computação** construindo projetos de Data Science e Machine Learning de ponta a ponta.
 
-Minha abordagem: implementar os fundamentos do zero em numpy, validar com cross-validation séria e amarrar todo modelo a um resultado mensurável. Cada repo é estruturado pra que **matemática**, **engenharia** e **decisão de negócio** apareçam no mesmo lugar.
+Minha abordagem: implementar os fundamentos do zero em numpy, validar com cross-validation séria e amarrar  modelo a um resultado mensurável. Cada repo é estruturado pra que **matemática**, **engenharia** e **decisão de negócio** apareçam no mesmo lugar.
 
 🎓 Estudante de Ciência da Computação · aprendendo escrevendo.
 
@@ -195,6 +194,24 @@ Metaheurísticas bio-inspiradas para otimização contínua — GWO e WOA implem
 <a href="https://github.com/lucastcor">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucastcor&bg_color=0d1117&color=4C6EF5&line=F76707&point=ffffff&area=true&area_color=4C6EF5&hide_border=true" alt="activity graph" width="98%"/>
 </a>
+
+</div>
+
+---
+
+## 🐍 Contribution snake &nbsp;·&nbsp; Cobrinha de contribuições
+
+<div align="center">
+
+<!-- Auto-switches between light and dark variants based on the visitor's GitHub theme. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/lucastcor/lucastcor/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/lucastcor/lucastcor/output/github-snake.svg"/>
+  <img alt="contribution snake animation"
+       src="https://raw.githubusercontent.com/lucastcor/lucastcor/output/github-snake.svg"/>
+</picture>
 
 </div>
 
