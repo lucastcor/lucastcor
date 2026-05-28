@@ -256,17 +256,3 @@ Metaheurísticas bio-inspiradas para otimização contínua — GWO e WOA implem
 
 <!-- =======  FOOTER WAVE  ===================================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" width="100%" alt="footer"/>
-
-<!--
-    Tips
-    -----
-    1. Replace the two `<!-- TODO: your city -->` placeholders with your city
-       (e.g. "Rio de Janeiro" / "São Paulo"). Or remove the "based in ..." clause
-       entirely if you'd rather not declare a location.
-    2. Star your three featured repos so the pin cards show stars > 0.
-    3. To enable the contribution-snake animation, see: https://github.com/Platane/snk
-       (it requires creating a small GitHub Actions workflow inside this same repo).
-    4. The visitor counter starts at 0 and increments on each public profile view.
-    5. The pin cards, stats, streak, trophy and activity graph all auto-update
-       from the GitHub API — no maintenance once it's published.
--->
