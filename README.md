@@ -1,8 +1,4 @@
-<!-- ============================================================ -->
-<!--  GitHub profile README for github.com/lucastcor             -->
-<!--  Drop this file in your `lucastcor` repo as README.md       -->
-<!--  Markers `<!-- TODO -->` mark things you should swap.       -->
-<!-- ============================================================ -->
+
 
 <!-- =======  HEADER WAVE  (renders as a gradient banner)  ====== -->
 <a href="https://github.com/lucastcor">
