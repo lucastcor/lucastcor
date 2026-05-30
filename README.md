@@ -1,16 +1,16 @@
-<!-- =======  HEADER WAVE  (renders as a gradient banner)  ====== -->
+<!-- ======= HEADER WAVE ======= -->
 <a href="https://github.com/lucastcor">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Lucas%20Teixeira%20Correia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Data%20Science%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Lucas%20Teixeira%20Correia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Optimization&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 </a>
 
-<!-- =======  TYPING ANIMATION  ================================ -->
+<!-- ======= TYPING ANIMATION ======= -->
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=4C6EF5&center=true&vCenter=true&multiline=false&width=950&height=46&lines=Computer+Science+student+%E2%80%A2+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Building+end-to-end+ML+pipelines;Construindo+pipelines+de+ML+ponta+a+ponta;From-scratch+algorithms+%E2%80%A2+Algoritmos+do+zero)](https://github.com/lucastcor)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=4C6EF5&center=true&vCenter=true&multiline=false&width=950&height=46&lines=Computer+Science+student+%E2%80%A2+Data+Science+%26+ML;Scientific+Initiation+in+Optimization+%26+Metaheuristics;Building+end-to-end+ML+projects;Learning+by+implementing+the+fundamentals)](https://github.com/lucastcor)
 
 </div>
 
-<!-- =======  QUICK CONTACT BADGES  ============================ -->
+<!-- ======= CONTACT BADGES ======= -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-teixeira-data/)
@@ -30,34 +30,48 @@
 
 ### 🇺🇸 EN
 
-I'm **Lucas** — a **Computer Science student** building Data Science and Machine Learning projects end-to-end.
+I'm **Lucas Teixeira Correia**, a **Computer Science student** focused on **Data Science, Machine Learning, optimization and applied AI**.
 
-My approach: implement the fundamentals from scratch in numpy, validate them with proper cross-validation, and tie every model back to a measurable outcome. Each repo is structured so the **maths**, the **engineering** and the **business decision** are all visible in the same place.
+I like to understand the fundamentals behind the tools I use. In my projects, I try to connect three layers: the **mathematical reasoning**, the **engineering implementation**, and the **decision-making impact** behind the model.
 
-🎓 Computer Science student · learning by writing.
+I'm currently developing my technical portfolio through end-to-end ML projects, from-scratch implementations, model evaluation, feature engineering, and applied optimization.
 
-🔭 Recent work: a 3-project [DS/ML portfolio](https://github.com/lucastcor/Data_Science_and_ML), a [global temperature forecasting pipeline](https://github.com/lucastcor/weather-trend-forecasting) on 130k+ observations, and [nature-inspired metaheuristics](https://github.com/lucastcor/metaheuristic-algorithms) (GWO, WOA) for continuous optimisation.
+I also work on scientific initiation research involving **optimization of shallow foundations**, with emphasis on **metaheuristics, hybrid strategies and computational modelling**.
 
-📚 Recently completed *Introduction to Data Science with Python* (Harvard · edX).
+📚 Currently studying:
+- Generative AI Engineering — IBM
+- Mathematics for Machine Learning — DeepLearning.AI
+- Machine Learning, statistics and MLOps fundamentals
 
-🎯 Open to **junior Data Science / ML Engineer** roles — remote, hybrid, or based in Goiânia.
+🎯 Open to **internship and junior opportunities** in:
+- Data Science
+- Machine Learning
+- AI Engineering
+- Backend / Software Engineering with AI applications
 
 </td>
 <td width="50%" valign="top">
 
 ### 🇧🇷 PT-BR
 
-Sou o **Lucas** — **estudante de Ciência da Computação** construindo projetos de Data Science e Machine Learning de ponta a ponta.
+Sou **Lucas Teixeira Correia**, **estudante de Ciência da Computação** com foco em **Data Science, Machine Learning, otimização e IA aplicada**.
 
-Minha abordagem: implementar os fundamentos do zero em numpy, validar com cross-validation séria e amarrar todo modelo a um resultado mensurável. Cada repo é estruturado pra que **matemática**, **engenharia** e **decisão de negócio** apareçam no mesmo lugar.
+Gosto de entender os fundamentos por trás das ferramentas que utilizo. Nos meus projetos, busco conectar três camadas: o **raciocínio matemático**, a **implementação de engenharia** e o **impacto da decisão** gerada pelo modelo.
 
-🎓 Estudante de Ciência da Computação · aprendendo escrevendo.
+Atualmente estou desenvolvendo meu portfólio técnico com projetos de ML ponta a ponta, implementações do zero, avaliação de modelos, engenharia de atributos e otimização aplicada.
 
-🔭 Trabalho recente: um [portfólio de DS/ML com 3 projetos](https://github.com/lucastcor/Data_Science_and_ML), um [pipeline de previsão global de temperatura](https://github.com/lucastcor/weather-trend-forecasting) sobre 130k+ observações, e [metaheurísticas bio-inspiradas](https://github.com/lucastcor/metaheuristic-algorithms) (GWO, WOA) pra otimização contínua.
+Também faço iniciação científica na área de **otimização de fundações rasas**, com ênfase em **metaheurísticas, estratégias híbridas e modelagem computacional**.
 
-📚 Concluí recentemente o curso *Introduction to Data Science with Python* da Harvard (edX).
+📚 Atualmente estudando:
+- Generative AI Engineering — IBM
+- Mathematics for Machine Learning — DeepLearning.AI
+- Fundamentos de Machine Learning, estatística e MLOps
 
-🎯 Aberto a **vagas júnior de Data Science / ML Engineer** — remoto, híbrido ou em Goiânia.
+🎯 Aberto a **estágios e oportunidades júnior** em:
+- Data Science
+- Machine Learning
+- AI Engineering
+- Backend / Engenharia de Software com aplicações em IA
 
 </td>
 </tr>
@@ -69,8 +83,7 @@ Minha abordagem: implementar os fundamentos do zero em numpy, validar com cross-
 
 <div align="center">
 
-<!-- core languages & libs -->
-<img src="https://skillicons.dev/icons?i=python,r,sklearn,pytorch,tensorflow&theme=dark" alt="ml stack"/>
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,r&theme=dark" alt="ml stack"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,docker&theme=dark" alt="tools"/>
 <br/>
@@ -91,6 +104,60 @@ Minha abordagem: implementar os fundamentos do zero em numpy, validar com cross-
 </div>
 
 ---
+---
+
+## 🏆 Awards & Achievements &nbsp;·&nbsp; Conquistas
+
+<div align="center">
+
+<a href="https://github.com/lucastcor">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucastcor&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🥈 2nd place
+
+**Metaheuristic Optimization Challenge**  
+PUC-GO · 2025
+
+Applied optimization using metaheuristic methods.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🥈 2nd place
+
+**III Hacka PUC-GO Challenge**  
+PUC-GO · 2023
+
+Hackathon focused on problem solving, prototyping and teamwork.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🥉 3rd place
+
+**JCPOLI Programming Marathon**  
+PUC-GO · 2023
+
+Competitive programming contest involving algorithms, logic and implementation speed.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>Academic competitions, hackathons and applied problem-solving experiences.</sub>
+
+</div>
+
+
 
 ## 📌 Featured projects &nbsp;·&nbsp; Projetos em destaque
 
@@ -114,40 +181,125 @@ Minha abordagem: implementar os fundamentos do zero em numpy, validar com cross-
 
 ### 🎯 [`Data_Science_and_ML`](https://github.com/lucastcor/Data_Science_and_ML)
 
-**3 end-to-end projects · ML from scratch · production-grade structure.**
+**End-to-end Data Science and ML portfolio.**
 
-- Regression (Advertising sales) — KNN R² = **0.92**
-- Imbalanced classification (Lung-cancer screening) — PR-AUC = **0.99**, recall = **1.00**
-- End-to-end pipeline (Telco churn) — **+\$87k** uplift from P&L-driven threshold
+- Regression with from-scratch KNN and model comparison
+- Imbalanced classification with PR-AUC, recall and threshold tuning
+- Churn modelling with business-oriented threshold selection
+- Reusable `src/` structure, documented notebooks and evaluation workflow
 
-3 projetos ponta a ponta, ML do zero em numpy, estrutura nível produção.
+Portfólio de Data Science e ML com foco em fundamentos, validação e tomada de decisão.
 
 </td>
 <td width="33%" valign="top">
 
 ### 🌍 [`weather-trend-forecasting`](https://github.com/lucastcor/weather-trend-forecasting)
 
-**Short-term temperature forecasting across global capital cities.**
+**Short-term temperature forecasting across global cities.**
 
-- **130 588 rows** · 41 features · May 2024 → Mar 2026
-- Random Forest tuned via `RandomizedSearchCV`
-- **MAE 1.74 · RMSE 2.53 · R² 0.949**
-- Permutation importance, error analysis by city & latitude band
+- 130k+ observations and 41 raw features
+- Data audit, preprocessing and feature engineering
+- Random Forest model tuned with `RandomizedSearchCV`
+- Error analysis by city, residual distribution and latitude bands
 
-Previsão de temperatura em capitais do mundo — RF tunado, análise de resíduo por cidade e latitude.
+Projeto de previsão de temperatura com pipeline completo, baseline forte e análise de erro.
 
 </td>
 <td width="33%" valign="top">
 
 ### 🐺 [`metaheuristic-algorithms`](https://github.com/lucastcor/metaheuristic-algorithms)
 
-**Nature-inspired optimisation for continuous benchmark functions.**
+**Nature-inspired optimization algorithms.**
 
-- **Grey Wolf Optimizer (GWO)**
-- **Whale Optimisation Algorithm (WOA)**
-- Modular, extensible framework for comparing population-based methods
+- Grey Wolf Optimizer (GWO)
+- Whale Optimization Algorithm (WOA)
+- Benchmark functions for continuous optimization
+- Modular structure for comparing population-based methods
 
-Metaheurísticas bio-inspiradas para otimização contínua — GWO e WOA implementados de forma modular.
+Metaheurísticas bio-inspiradas para otimização contínua, conectadas ao meu interesse de pesquisa em otimização aplicada.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Research & applied interests
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Current research direction
+
+I'm currently involved in scientific initiation research focused on **optimization applied to civil engineering**, especially the dimensioning and positioning of shallow foundations.
+
+My technical interests include:
+
+- Metaheuristics and hybrid optimization methods
+- Constraint handling in engineering optimization
+- Computational modelling for decision support
+- Python-based scientific computing
+- Streamlit/FastAPI prototypes for applied tools
+
+</td>
+<td width="50%" valign="top">
+
+
+### Direção atual de pesquisa
+
+Atualmente participo de uma iniciação científica focada em **otimização aplicada à engenharia civil**, especialmente no dimensionamento e posicionamento de fundações rasas.
+
+Meus interesses técnicos incluem:
+
+- Metaheurísticas e métodos híbridos de otimização
+- Tratamento de restrições em problemas de engenharia
+- Modelagem computacional para apoio à decisão
+- Computação científica com Python
+- Protótipos aplicados com Streamlit/FastAPI
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 What I'm focusing on &nbsp;·&nbsp; No que estou focando
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇺🇸 Now
+
+- Strengthening mathematical foundations for ML.
+- Studying Generative AI Engineering through IBM.
+- Studying Mathematics for Machine Learning through DeepLearning.AI.
+- Improving my ML portfolio with stronger validation, feature engineering and model interpretation.
+- Connecting optimization, metaheuristics and applied machine learning in research-oriented projects.
+
+### 🇺🇸 Next
+
+- Add more robust MLOps patterns: experiment tracking, packaging, APIs and reproducible pipelines.
+- Build a small LLM/RAG project with clear evaluation criteria.
+- Improve public project documentation with architecture diagrams, limitations and reproducible setup.
+
+</td>
+<td width="50%" valign="top">
+
+### 🇧🇷 Agora
+
+- Fortalecendo fundamentos matemáticos para ML.
+- Estudando Generative AI Engineering pela IBM.
+- Estudando Mathematics for Machine Learning pela DeepLearning.AI.
+- Melhorando meu portfólio de ML com validação, engenharia de atributos e interpretação de modelos.
+- Conectando otimização, metaheurísticas e machine learning aplicado em projetos com viés de pesquisa.
+
+### 🇧🇷 Depois
+
+- Adicionar padrões mais robustos de MLOps: tracking de experimentos, empacotamento, APIs e pipelines reprodutíveis.
+- Construir um pequeno projeto de LLM/RAG com critérios claros de avaliação.
+- Melhorar a documentação dos projetos públicos com diagramas, limitações e setup reprodutível.
 
 </td>
 </tr>
@@ -157,7 +309,6 @@ Metaheurísticas bio-inspiradas para otimização contínua — GWO e WOA implem
 
 ## 📊 GitHub stats
 
-<!-- Always-reliable shields.io badges (live data via GitHub API). -->
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/lucastcor?style=for-the-badge&logo=github&logoColor=white&color=4C6EF5&labelColor=0d1117)
@@ -166,7 +317,6 @@ Metaheurísticas bio-inspiradas para otimização contínua — GWO e WOA implem
 
 </div>
 
-<!-- Visual cards (Vercel-hosted; occasionally rate-limited — `cache_seconds=86400` makes the cache resilient once loaded). -->
 <div align="center">
 
 <a href="https://github.com/lucastcor">
@@ -200,7 +350,6 @@ Metaheurísticas bio-inspiradas para otimização contínua — GWO e WOA implem
 
 <div align="center">
 
-<!-- Auto-switches between light and dark variants based on the visitor's GitHub theme. -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/lucastcor/lucastcor/output/github-snake-dark.svg"/>
@@ -214,59 +363,18 @@ Metaheurísticas bio-inspiradas para otimização contínua — GWO e WOA implem
 
 ---
 
-## 🎯 What I'm focusing on &nbsp;·&nbsp; No que estou focando
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🇺🇸 Now
-
-- Deepening statistical fundamentals — bootstrap, hypothesis testing, causal inference.
-- Practising **MLOps basics**: experiment tracking with MLflow, model packaging with `joblib`, serving with FastAPI.
-- Adding gradient-boosted trees (**XGBoost**, **LightGBM**) and **SHAP** explanations to my portfolio.
-- Learning **PyTorch** for the deep-learning side of the stack.
-
-### 🇺🇸 Next
-
-- Extend `weather-trend-forecasting` to multi-step horizons with conformal prediction intervals.
-- A small **LLM/RAG** project to round out the GenAI side.
-- A Streamlit demo for the churn pipeline so recruiters can play with it.
-
-</td>
-<td width="50%" valign="top">
-
-### 🇧🇷 Agora
-
-- Aprofundando fundamentos estatísticos — bootstrap, teste de hipótese, inferência causal.
-- Praticando o básico de **MLOps**: tracking de experimentos com MLflow, empacotamento com `joblib`, deploy com FastAPI.
-- Adicionando árvores com gradient boosting (**XGBoost**, **LightGBM**) e explicações **SHAP** ao portfólio.
-- Aprendendo **PyTorch** pra cobrir o lado de deep learning.
-
-### 🇧🇷 Depois
-
-- Estender `weather-trend-forecasting` para horizontes multi-step com intervalos por conformal prediction.
-- Um pequeno projeto **LLM/RAG** pra completar o lado de GenAI.
-- Um demo em Streamlit do pipeline de churn pra recrutadores poderem brincar.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📫 Get in touch &nbsp;·&nbsp; Entre em contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-teixeira-data/)
-[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasteixeiracor@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-teixeira-data/)
+[![Send me an email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasteixeiracor@gmail.com)
 
 <br/>
 
-<sub>💼 Open to junior Data Science / Machine Learning opportunities · Aberto a oportunidades júnior em Data Science / ML</sub>
+<sub>Open to internship and junior opportunities in Data Science, Machine Learning, AI Engineering and Software Engineering.</sub>
 
 </div>
 
-<!-- =======  FOOTER WAVE  ===================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" width="100%" alt="footer"/>
+<!-- ======= FOOTER WAVE ======= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" width="100%" alt="footer
